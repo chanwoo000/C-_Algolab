@@ -1,1 +1,0 @@
-K.length()<number
